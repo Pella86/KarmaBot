@@ -1,3 +1,5 @@
 botdata/*
 log_files/*
 databases/*
+src/__pycache__/*
+src/language_support/__pycache__/*
