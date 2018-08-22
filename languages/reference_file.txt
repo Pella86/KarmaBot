@@ -1,0 +1,598 @@
+--- new string ---
+<b>Karma Bot</b>
+Welcome to your profile, here you can check your points and the best voted messages.--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: 0XC340FE97</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 0 ₽
+Karma: 0🌀
+Shield points: 1🔰
+Repuation: 7G⚜️
+
+<b>--- Create category ---</b>
+<i> You can create your own categories </i>
+/create_category
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+<b>--- Uploaded media ---</b>
+<i> The media you uploaded to the bot </i>
+/uploaded_media
+
+<b>--- delete profile ---</b>
+<i> this action will delete every file you uploaded and reset all scores </i>
+--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: 0XC340FE97</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 0 ₽
+Karma: 0🌀
+Shield points: 1🔰
+Repuation: 1⚜️
+
+<b>--- Create category ---</b>
+<i> You can create your own categories </i>
+/create_category
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+<b>--- Uploaded media ---</b>
+<i> The media you uploaded to the bot </i>
+/uploaded_media
+
+<b>--- delete profile ---</b>
+<i> this action will delete every file you uploaded and reset all scores </i>
+--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: 0XC340FE97</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 0 ₽
+Karma: 0🌀
+Shield points: 1🔰
+Repuation: 1⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: 0XC340FE97</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 1 ₽
+Karma: 1🌀
+Shield points: 1🔰
+Repuation: 1⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: 0XC340FE97</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 2 ₽
+Karma: 2🌀
+Shield points: 1🔰
+Repuation: 2⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: 0X41A1AFC1</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 2 ₽
+Karma: 2🌀
+Shield points: 1🔰
+Repuation: 2⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: 0X2CAC8D26</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 0 ₽
+Karma: 0🌀
+Shield points: 1🔰
+Repuation: 1⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+<b>--- Karma count ---</b>
+<i> How much karma you distributed today </i>
+Karma given: 0
+Hours since last karma: 0
+--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: 0X2CAC8D26</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 2 ₽
+Karma: 0🌀
+Shield points: 1🔰
+Repuation: 1⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+<b>--- Karma count ---</b>
+<i> How much karma you distributed today </i>
+Karma given: 2
+Hours since last karma: 0
+--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: 0XD8A38E33</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 1 ₽
+Karma: 1🌀
+Shield points: 1🔰
+Repuation: 1⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+<b>--- Karma count ---</b>
+<i> How much karma you distributed today </i>
+Karma given: 1
+Hours since last karma: 0
+--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: 0X2CAC8D26</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 2 ₽
+Karma: 2🌀
+Shield points: 1🔰
+Repuation: 2⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+<b>--- Karma count ---</b>
+<i> How much karma you distributed today </i>
+Karma given: 2
+Hours since last karma: 0
+--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: 0XD8A38E33</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 0 ₽
+Karma: 0🌀
+Shield points: 1🔰
+Repuation: 1⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+<b>--- Karma count ---</b>
+<i> How much karma you distributed today </i>
+Karma given: 0
+Hours since last karma: 0
+--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: 0X2CAC8D26</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 2 ₽
+Karma: 2🌀
+Shield points: 1🔰
+Repuation: 2⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+<b>--- Karma count ---</b>
+<i> How much karma you distributed today </i>
+Karma given: 1
+Hours since last karma: 0
+--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: 0X2CAC8D26</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 3 ₽
+Karma: 1🌀
+Shield points: 1🔰
+Repuation: 1⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+<b>--- Karma count ---</b>
+<i> How much karma you distributed today </i>
+Karma given: 2
+Hours since last karma: 0
+--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: 0X2CAC8D26</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 3 ₽
+Karma: 1🌀
+Shield points: 1🔰
+Repuation: 1⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+<b>--- Karma count ---</b>
+<i> How much karma you distributed today </i>
+Karma given: 2
+Hours since last karma: 14
+--- new string ---
+Send a nickname. Allowed characters [a-z, A-Z, @]--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: @Pellostyle</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 3 ₽
+Karma: 1🌀
+Shield points: 1🔰
+Repuation: 1⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+<b>--- Karma count ---</b>
+<i> How much karma you distributed today </i>
+Karma given: 2
+Hours since last karma: 14
+--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: @Pellostyle</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 4 ₽
+Karma: 2🌀
+Shield points: 1🔰
+Repuation: 2⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+<b>--- Karma count ---</b>
+<i> How much karma you distributed today </i>
+Karma given: 2
+Hours since last karma: 15
+--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: @Pellostyle</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 7 ₽
+Karma: 3🌀
+Shield points: 1🔰
+Repuation: 3⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+<b>--- Karma count ---</b>
+<i> How much karma you distributed today </i>
+Karma given: 3
+Hours since last karma: 15
+--- new string ---
+Maximum karma reached, it realoads once a day.--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: @Pellostyle</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 9 ₽
+Karma: 4🌀
+Shield points: 1🔰
+Repuation: 4⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+<b>--- Karma count ---</b>
+<i> How much karma you distributed today </i>
+Karma given: 5
+Hours since last karma: 15
+--- new string ---
+You gave enough karma, it realoads once a day.--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: @Pellostyle</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 9 ₽
+Karma: 5🌀
+Shield points: 1🔰
+Repuation: 5⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+<b>--- Karma count ---</b>
+<i> How much karma you distributed today </i>
+Karma given: 5
+Hours since last karma: 16/24
+--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: @Pellostyle</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 9 ₽
+Karma: 7🌀
+Shield points: 1🔰
+Repuation: 5⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+<b>--- Karma count ---</b>
+<i> How much karma you distributed today </i>
+Karma given: 0
+Hours since last karma: 0/24
+--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: 0X2ECE9CE3</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 1 ₽
+Karma: 0🌀
+Shield points: 1🔰
+Repuation: 0⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+<b>--- Karma count ---</b>
+<i> How much karma you distributed today </i>
+Karma given: 1
+Hours since last karma: 0/24
+--- new string ---
+Invalid character in nickname--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: Abaddon</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 1 ₽
+Karma: 0🌀
+Shield points: 1🔰
+Repuation: 0⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+<b>--- Karma count ---</b>
+<i> How much karma you distributed today </i>
+Karma given: 1
+Hours since last karma: 0/24
+--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: @Pellostyle</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 12 ₽
+Karma: 8🌀
+Shield points: 1🔰
+Repuation: 3⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+<b>--- Karma count ---</b>
+<i> How much karma you distributed today </i>
+Karma given: 1
+Hours since last karma: 0/24
+--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: 0XA0C9EC84</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 1 ₽
+Karma: 0🌀
+Shield points: 1🔰
+Repuation: 0⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+<b>--- Karma count ---</b>
+<i> How much karma you distributed today </i>
+Karma given: 1
+Hours since last karma: 0/24
+--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: pellostyle</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 1 ₽
+Karma: 0🌀
+Shield points: 1🔰
+Repuation: 0⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+<b>--- Karma count ---</b>
+<i> How much karma you distributed today </i>
+Karma given: 1
+Hours since last karma: 0/24
+--- new string ---
+Nickname changed successfully
+/main_menu--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: @Pellostyle</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 1 ₽
+Karma: 0🌀
+Shield points: 1🔰
+Repuation: 0⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+<b>--- Karma count ---</b>
+<i> How much karma you distributed today </i>
+Karma given: 1
+Hours since last karma: 0/24
+--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: @Pellostyle</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 3 ₽
+Karma: 1🌀
+Shield points: 1🔰
+Repuation: 1⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+<b>--- Karma count ---</b>
+<i> How much karma you distributed today </i>
+Karma given: 3
+Hours since last karma: 0/24
+--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: mirtilli</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 0 ₽
+Karma: 0🌀
+Shield points: 1🔰
+Repuation: 0⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+<b>--- Karma count ---</b>
+<i> How much karma you distributed today </i>
+Karma given: 0
+Hours since last karma: 0/24
+--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: @mirtilli</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 0 ₽
+Karma: 0🌀
+Shield points: 1🔰
+Repuation: 0⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+<b>--- Karma count ---</b>
+<i> How much karma you distributed today </i>
+Karma given: 0
+Hours since last karma: 0/24
+--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: @mirtilla</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 0 ₽
+Karma: 0🌀
+Shield points: 1🔰
+Repuation: 0⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+<b>--- Karma count ---</b>
+<i> How much karma you distributed today </i>
+Karma given: 0
+Hours since last karma: 0/24
+--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: ClittyMcTitty</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 0 ₽
+Karma: 0🌀
+Shield points: 1🔰
+Repuation: 0⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+<b>--- Karma count ---</b>
+<i> How much karma you distributed today </i>
+Karma given: 0
+Hours since last karma: 0/24
+--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: ClittyMcTitty</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 0 ₽
+Karma: 1🌀
+Shield points: 1🔰
+Repuation: 1⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+<b>--- Karma count ---</b>
+<i> How much karma you distributed today </i>
+Karma given: 0
+Hours since last karma: 1/24
+--- new string ---
+<b>User Profile </b>
+<i>Your anonymous id is: @Pellostyle</i>
+<i>Change nickname</i> /set_nickname
+
+Coins: 6 ₽
+Karma: 1🌀
+Shield points: 1🔰
+Repuation: 1⚜️
+
+<b>--- User Top ---</b>
+<i> The bot top chart </i>
+/user_top
+
+<b>--- Karma count ---</b>
+<i> How much karma you distributed today </i>
+Karma given: 5
+Hours since last karma: 5/24
